@@ -4,4 +4,6 @@
 |---|
 | Commit early, Commit often |
 |
+
+
 | branch features, not persons |
